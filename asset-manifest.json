@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/karta1502545/my-first-react/static/css/main.5f361e03.chunk.css",
+    "main.js": "/karta1502545/my-first-react/static/js/main.4261b7f3.chunk.js",
+    "main.js.map": "/karta1502545/my-first-react/static/js/main.4261b7f3.chunk.js.map",
+    "runtime-main.js": "/karta1502545/my-first-react/static/js/runtime-main.b21cf2d7.js",
+    "runtime-main.js.map": "/karta1502545/my-first-react/static/js/runtime-main.b21cf2d7.js.map",
+    "static/js/2.1072a7e9.chunk.js": "/karta1502545/my-first-react/static/js/2.1072a7e9.chunk.js",
+    "static/js/2.1072a7e9.chunk.js.map": "/karta1502545/my-first-react/static/js/2.1072a7e9.chunk.js.map",
+    "index.html": "/karta1502545/my-first-react/index.html",
+    "precache-manifest.d2d695a2652f2863cb281c9e91450015.js": "/karta1502545/my-first-react/precache-manifest.d2d695a2652f2863cb281c9e91450015.js",
+    "service-worker.js": "/karta1502545/my-first-react/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/karta1502545/my-first-react/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.1072a7e9.chunk.js.LICENSE.txt": "/karta1502545/my-first-react/static/js/2.1072a7e9.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/karta1502545/my-first-react/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b21cf2d7.js",
+    "static/js/2.1072a7e9.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.4261b7f3.chunk.js"
+  ]
+}
